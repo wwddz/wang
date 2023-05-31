@@ -1,0 +1,31 @@
+
+>
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è†ó»
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ëŞï®
+_
+java:S2147E"DCombine this catch with the one at line 67, which has the same body.(ĞĞ¹óúÿÿÿÿ
+Q	java:S125†"<This block of commented-out lines of code should be removed.(ñæa
+t
+java:S14883"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ã÷˜é
+E
+java:S3740i"/Provide the parametrized type for this generic.(á›æ¤
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+java:S4719B"9Replace charset name argument with StandardCharsets.UTF_8(Ø¤÷™úÿÿÿÿ
+>
+java:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+†
+java:S1319i"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(á›æ¤
+W
+java:S1075l"ARefactor your code to get this URI from a customizable parameter.(°§¹¯
+a
+java:S2095n"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(€¶&
+?
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+z
+java:S1149)"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+3
+java:S2119'"Save and re-use this "Random".(¼İÅf

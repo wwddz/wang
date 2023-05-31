@@ -1,0 +1,28 @@
+
+[
+java:S2147n"ECombine this catch with the one at line 104, which has the same body.(ï­£Ä
+?
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+B
+java:S1068"'Remove this unused "log" private field.(üµÔîûÿÿÿÿ
+3
+java:S2119R"Save and re-use this "Random".(¼ÝÅf
+>
+java:S1148p"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(„Ë™ê
+>
+java:S1148j"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148m"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+9
+java:S1148K"#Use a logger to log this exception.(‰†æ†
+B
+java:S1481C"'Remove this unused "ra" local variable.(þ¾ýÙúÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+J
+java:S3752!"/Consider narrowing this list of methods to one.(ÍÉ¯Âýÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(£‹èÃ
+`
+java:S2147k"ECombine this catch with the one at line 104, which has the same body.(÷¿­¹ÿÿÿÿÿ
+J
+java:S10669"/Merge this if statement with the enclosing one.(ÄÚ°Žüÿÿÿÿ

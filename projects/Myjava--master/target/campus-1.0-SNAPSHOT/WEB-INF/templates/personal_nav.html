@@ -1,0 +1,14 @@
+<div class="personal_nav" th:fragment="personal_nav" xmlns:th="http://www.w3.org/1999/xhtml">
+    <ul>
+        <li><a href="/personal_info.do">个人信息</a></li>
+        <li><a href="/publish_product.do">发布商品</a></li>
+        <li><a href="/require_product.do">发布求购信息</a></li>
+        <li><a href="/shopping_cart.do">我的购物车</a></li>
+        <li><a href="/purchase_shop.do">购买订单</a></li>
+        <li><a href="/sell_out_shop.do">卖出商品订单</a></li>
+        <li><a th:if="${userInformation.manager}" href="/admin.do">管理系统</a></li>
+        <li><a href="/my_publish_product_page.do">我发布的商品</a></li>
+        <li><a href="/my_require_product_page.do">我求购的商品</a></li>
+        <li><a class="login_out" href="/logout.do">退出</a></li>
+    </ul>
+</div>

@@ -1,0 +1,11 @@
+
+{
+java:S1488m"eImmediately return this expression instead of assigning it to the temporary variable "orderFormList".(¼¯
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¤¢²ıÿÿÿÿ
+R
+java:S2589M"7Remove this expression which always evaluates to "true"(ü°ıÿÿÿÿ
+X	java:S125V"<This block of commented-out lines of code should be removed.(´ó³©8áíÁİ¥.
+Y
+java:S1155M">Use isEmpty() to check whether the collection is empty or not.(ü°ıÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(ƒªïÈøÿÿÿÿ
+]	java:S125S"<This block of commented-out lines of code should be removed.(‚æÃëüÿÿÿÿ8îšÅİ¥.

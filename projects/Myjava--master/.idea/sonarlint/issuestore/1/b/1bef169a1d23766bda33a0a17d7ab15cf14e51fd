@@ -1,0 +1,6 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ëŞï®
+`	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+S
+java:S1197+"8Move the array designator from the variable to the type.(©İŒ°ùÿÿÿÿ

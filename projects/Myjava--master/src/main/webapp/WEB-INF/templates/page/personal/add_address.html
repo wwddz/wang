@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>地址添加</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/personal/add_address.css" />
+</head>
+<body>
+<div class="container">
+<form id="contact" action="/insert_address.do" method="post">
+    <h3>Add_Address</h3>
+    <br/>
+    <fieldset>
+        <input placeholder="收件人" type="text" tabindex="1" name="recipient" required="required" autofocus="autofocus"/>
+    </fieldset>
+    <fieldset>
+        <input placeholder="收件人电话" type="tel" tabindex="2" name="rephone" required="required"/>
+    </fieldset>
+    <fieldset>
+        <input placeholder="收件人地址" type="text" tabindex="3" name="address" required="required"/>
+    </fieldset>
+    <fieldset>
+        <button name="submit" type="submit" id="contact-submit" >确认添加</button>
+    </fieldset>
+</form>
+</div>
+</body>
+</html>

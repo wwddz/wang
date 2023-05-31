@@ -1,0 +1,48 @@
+
+j
+java:S1192"NDefine a constant instead of duplicating this literal "åˆ é™¤å¤±è´¥!" 3 times.(Óå¡•ûÿÿÿÿ
+\
+java:S1192X"FDefine a constant instead of duplicating this literal "count" 3 times.(ÕÃ£…
+f	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÜÕŒ
+Y
+java:S3752N">Add a "method" parameter to this "@RequestMapping" annotation.(Ôì¼ úÿÿÿÿ
+e
+java:S1192œ"NDefine a constant instead of duplicating this literal "åˆ é™¤æˆåŠŸ!" 3 times.(ÊÊÊ‚
+c
+java:S1192W"HDefine a constant instead of duplicating this literal "success" 9 times.(…Î¤ãøÿÿÿÿ
+Y
+java:S3752~">Add a "method" parameter to this "@RequestMapping" annotation.(ŒÑ¯Èÿÿÿÿÿ
+U
+java:S2130Ê"9Use "Integer.parseInt" for this string-to-int conversion.(“¨ûœşÿÿÿÿ
+=
+java:S1481™"&Remove this unused "j" local variable.(°ìÚÊ
+?
+java:S1125ş"(Remove the literal "true" boolean value.(í¾Â
+f
+java:S4488°"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÖÀÅÂşÿÿÿÿ
+S
+java:S37525">Add a "method" parameter to this "@RequestMapping" annotation.(ÖıÁp
+U
+java:S2130¶"9Use "Integer.parseInt" for this string-to-int conversion.(“¨ûœşÿÿÿÿ
+Y
+java:S3752h">Add a "method" parameter to this "@RequestMapping" annotation.(êÛ¤€úÿÿÿÿ
+g	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÅ
+W	java:S125±"<This block of commented-out lines of code should be removed.(Ô†£ûÿÿÿÿ
+Z
+java:S3752À">Add a "method" parameter to this "@RequestMapping" annotation.(³œ­¹ÿÿÿÿÿ
+P
+java:S2130à"9Use "Integer.parseInt" for this string-to-int conversion.(ß±²–
+a
+java:S4488Å"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(úáôé
+Z
+java:S3752’">Add a "method" parameter to this "@RequestMapping" annotation.(„™ºÁşÿÿÿÿ
+a
+java:S4488Ù"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ß›³÷
+Z
+java:S3752¬">Add a "method" parameter to this "@RequestMapping" annotation.(îİ¡Ãøÿÿÿÿ
+P
+java:S2130ü"9Use "Integer.parseInt" for this string-to-int conversion.(üá‚„
+n
+java:S3776Û"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(«Àáîùÿÿÿÿ
+U
+java:S2130Í"9Use "Integer.parseInt" for this string-to-int conversion.(‰—”ıÿÿÿÿ
